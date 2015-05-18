@@ -1,0 +1,14 @@
+{
+    "name": "TypeScriptReact",
+    "version": "0.0.1",
+    "private": true,
+    "dependencies": {
+        "react": "^0.13.1"
+    },
+    "devDependencies": {
+        "ts-jsx-loader": "git://github.com/jbrantly/ts-jsx-loader.git#9f2fa56f2bf6989a8d27b3126f729f74f66b97f1",
+        "ts-loader": "^0.3.3",
+        "webpack": "^1.8.4",
+        "webpack-dev-server": "^1.8.0"
+    }
+}
